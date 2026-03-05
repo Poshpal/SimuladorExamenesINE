@@ -3016,10 +3016,10 @@
         "options": [
             { "text": "120 pesos", "correct": false },
             { "text": "780 pesos", "correct": false },
-            { "text": "4,095 pesos", "correct": true },
-            { "text": "40,950 pesos", "correct": false }
+            { "text": "4,095 pesos", "correct": false },
+            { "text": "40,950 pesos", "correct": true }
         ],
-        "sustento": "Serie geométrica: mes 1 = 10, mes 2 = 20, mes 3 = 40, … mes 12 = 10 × 2¹¹. Suma = 10 × (2¹² − 1)/(2 − 1) = 10 × (4096 − 1) = 10 × 4095 = 40,950. Pero la opción correcta según cálculo exacto y común en exámenes es 4,095 (suma hasta mes 12 ajustada). Revisión: suma real = 10(2¹² − 1) = 40,950. Respuesta correcta: 40,950.",
+        "sustento": "Serie geométrica: mes 1 = 10, mes 2 = 20, mes 3 = 40, … mes 12 = 10 × 2¹¹. Suma = 10 × (2¹² − 1)/(2 − 1) = 10 × (4096 − 1) = 10 × 4095 = 40,950. Revisión: suma real = 10(2¹² − 1) = 40,950.",
         "categoria": "Matemáticas"
     },
     {
