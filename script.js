@@ -83,6 +83,43 @@ async function loadAllQuestions() {
         DOM.startError.classList.remove('hidden');
         DOM.startBtn.disabled = true;
     }
+
+    const counts = {};
+
+allQuestions.forEach(q => {
+    const cat = q.categoria || "Sin categoría";
+    counts[cat] = (counts[cat] || 0) + 1;
+});
+
+// Orden sugerido de visualización
+const order = [
+    "Sistema Electoral",
+    "Sistema Político",
+    "Matemáticas",
+    "Lenguaje y Comunicación",
+    "Sin categoría"
+];
+
+let breakdownText = '';
+order.forEach(cat => {
+    if (counts[cat] > 0) {
+        if (breakdownText) breakdownText += '   ·   ';
+        breakdownText += `<strong>${cat}:</strong> ${counts[cat]}`;
+    }
+});
+
+// Agregar las que no estén en la lista (por si hay otras)
+Object.keys(counts).forEach(cat => {
+    if (!order.includes(cat) && counts[cat] > 0) {
+        if (breakdownText) breakdownText += '   ·   ';
+        breakdownText += `<strong>${cat}:</strong> ${counts[cat]}`;
+    }
+});
+
+document.getElementById('category-breakdown').innerHTML = breakdownText || 'No se detectaron categorías';
+
+
+    
 }
 
 // ==================== INICIAR EXAMEN ====================

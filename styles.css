@@ -261,3 +261,23 @@ header h1 { font-size: 2rem; margin-bottom: 10px; }
     margin-bottom: 14px;
     opacity: 0.9;
 }
+
+.category-breakdown {
+    margin-top: 8px;
+    font-size: 0.98rem;
+    color: #555;
+    line-height: 1.5;
+}
+
+.category-breakdown strong {
+    color: var(--accent);
+    font-weight: 600;
+}
+
+body.dark .category-breakdown {
+    color: #b0bec5;
+}
+
+body.dark .category-breakdown strong {
+    color: var(--accent);
+}
