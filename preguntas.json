@@ -4065,5 +4065,269 @@
         ],
         "sustento": "Se calcula con la regla de tres: Si 120% es igual a $600, entonces el 100% es (600 × 100) ÷ 120 = $500.",
         "categoria": "Matemáticas"
+    },
+    {
+        "id": 340,
+        "text": "En el texto, ¿Cuál es el punto de vista del autor?",
+        "options": [
+            { "text": "La responsabilidad de los incendios forestales se origina en el recorte presupuestal", "correct": false },
+            { "text": "Es probable que las estadísticas muestren un porcentaje más alto de incendios", "correct": false },
+            { "text": "El presupuesto para la prevención y extinción de incendios forestales no debe reducirse", "correct": true },
+            { "text": "Hay que preparar el presupuesto anual con base en el problema de los incendios", "correct": false }
+        ],
+        "sustento": "El autor critica los recortes como 'pirómanos e irresponsables' y sugiere rectificar la política de recortes, enfatizando que 'con el fuego no se juega'. La idea central es que no se debe reducir el presupuesto de prevención y extinción.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 341,
+        "text": "Elija las oraciones coordinadas copulativas.",
+        "options": [
+            { "text": "2, 4, 6", "correct": true },
+            { "text": "1, 3, 5", "correct": false },
+            { "text": "1, 2, 4", "correct": false },
+            { "text": "3, 5, 6", "correct": false }
+        ],
+        "sustento": "Las oraciones coordinadas copulativas unen ideas con nexos aditivos ('y', 'ni'). Las correctas son: 2 ('Jugamos y corrimos'), 4 ('Salimos... y terminamos'), 6 ('no juegan ni comen').",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 342,
+        "text": "¿Cuál opción tiene una oración subordinada adjetiva?",
+        "options": [
+            { "text": "Me pregunto si quería ser su novia", "correct": false },
+            { "text": "María tenía un gato que era negro", "correct": true },
+            { "text": "Estábamos seguros de que vendrías", "correct": false },
+            { "text": "Te escribiré mientras tenga tiempo", "correct": false }
+        ],
+        "sustento": "La subordinada adjetiva es aquella que funciona como adjetivo y modifica a un sustantivo. En B, 'que era negro' modifica a 'gato' (oración relativa especificativa).",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 343,
+        "text": "De acuerdo con el contexto, ¿cuál es un sinónimo del texto en cursivas? Perdí el hilo de la conversación.",
+        "options": [
+            { "text": "La raíz", "correct": false },
+            { "text": "El nudo", "correct": false },
+            { "text": "El cauce", "correct": false },
+            { "text": "El tejido", "correct": true }
+        ],
+        "sustento": "En la expresión idiomática 'perder el hilo', 'hilo' significa el 'tejido' o continuidad lógica de la conversación. El sinónimo más cercano en contexto es 'el tejido'.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 344,
+        "text": "Seleccione la oración que presenta una concordancia nominal y verbal correcta.",
+        "options": [
+            { "text": "El grupo de investigadores entregaron sus reportes a tiempo.", "correct": false },
+            { "text": "La mayoría de los asistentes aplaudió con entusiasmo al conferencista.", "correct": true },
+            { "text": "Habían muchas personas esperando la apertura de la biblioteca.", "correct": false },
+            { "text": "Los análisis realizado por el laboratorio resultaron negativos.", "correct": false }
+        ],
+        "sustento": "'La mayoría' es singular y concuerda con 'aplaudió'. En A debe ser 'entregó'; en C 'Había' (impersonal); en D 'realizados' (concordancia participio).",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 345,
+        "text": "Identifique el enunciado con la acentuación ortográfica correcta.",
+        "options": [
+            { "text": "El médico le dío un medicamento para la infección de garganta.", "correct": false },
+            { "text": "El examen de biologia será el próximo miércoles por la mañana.", "correct": false },
+            { "text": "Sé que tú fuiste", "correct": true },
+            { "text": "Me gustaria mucho que vinieras a la presentación de mi tesis.", "correct": false }
+        ],
+        "sustento": "'Sé' (verbo saber) y 'tú' (pronombre) llevan tilde. 'Dio' es monosílabo y no lleva; 'biología' y 'gustaría' llevan tilde en la 'i'.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 346,
+        "text": "¿Cuál de los siguientes fragmentos cumple con las normas de puntuación?",
+        "options": [
+            { "text": "Los alumnos, que no estudiaron para el examen, reprobaron.", "correct": true },
+            { "text": "Mariana trajo: reglas, lápices, gomas y sacapuntas.", "correct": false },
+            { "text": "Aunque llovió mucho; los estudiantes llegaron puntuales a clase.", "correct": false },
+            { "text": "Estimado director. Por medio de la presente le informo que...", "correct": false }
+        ],
+        "sustento": "Se trata de una oración explicativa (inciso). Las comas rodean la aclaración 'que no estudiaron para el examen'.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 347,
+        "text": "Con base en el siguiente texto: “La Secretaría de Educación y Cultura convoca a todos los estudiantes de nivel superior a participar en el Programa de Becas de Movilidad Urbana 2025. El objetivo es proporcionar un apoyo económico mensual para cubrir los gastos de transporte público. Los aspirantes deberán contar con un promedio mínimo de 8.5 y residir a más de 5 kilómetros de su centro de estudios. El periodo de registro inicia el 1 de marzo y concluye el 15 del mismo mes a través del portal oficial”. ¿Cuál es el objetivo principal del programa de becas?",
+        "options": [
+            { "text": "Comprar bicicletas para todos los estudiantes universitarios.", "correct": false },
+            { "text": "Subvencionar los gastos de traslado de los estudiantes en transporte público.", "correct": true },
+            { "text": "Mejorar las calificaciones de los alumnos con bajo rendimiento.", "correct": false },
+            { "text": "Construir nuevas estaciones de metro cerca de las universidades.", "correct": false }
+        ],
+        "sustento": "El texto menciona explícitamente el apoyo para 'gastos de transporte público'.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 348,
+        "text": "Elija la palabra que debe llevar tilde por ser una palabra esdrújula.",
+        "options": [
+            { "text": "Examen.", "correct": false },
+            { "text": "Cientifico.", "correct": true },
+            { "text": "Volumen.", "correct": false },
+            { "text": "Resumen.", "correct": false }
+        ],
+        "sustento": "Las esdrújulas siempre se acentúan. 'Científico' es esdrújula (ci-en-tí-fi-co) y debe llevar tilde en la 'i'. Las demás son graves terminadas en 'n' y no llevan tilde.",
+        "categoria": "Lenguaje y Comunicación"
+    },
+    {
+        "id": 349,
+        "text": "Si repartes $1,200 entre tres personas en proporción 1:2:3, ¿cuánto recibe la persona que más obtiene?",
+        "options": [
+            { "text": "$200", "correct": false },
+            { "text": "$400", "correct": false },
+            { "text": "$600", "correct": true },
+            { "text": "$800", "correct": false }
+        ],
+        "sustento": "Partes totales: 1 + 2 + 3 = 6. Valor de cada parte: 1200 ÷ 6 = 200. La mayor parte es 3 × 200 = $600.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 350,
+        "text": "¿Cuál es el máximo común divisor (MCD) de 12 y 18?",
+        "options": [
+            { "text": "2", "correct": false },
+            { "text": "3", "correct": false },
+            { "text": "6", "correct": true },
+            { "text": "36", "correct": false }
+        ],
+        "sustento": "Los divisores comunes de 12 y 18 son 1, 2, 3 y 6. El mayor es 6.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 351,
+        "text": "Resuelve la operación: (8 - 3) * 2 + 10 / 5.",
+        "options": [
+            { "text": "12", "correct": true },
+            { "text": "14", "correct": false },
+            { "text": "4", "correct": false },
+            { "text": "11", "correct": false }
+        ],
+        "sustento": "Primero paréntesis: 8 - 3 = 5. Luego multiplicación: 5 * 2 = 10. Luego división: 10 / 5 = 2. Finalmente: 10 + 2 = 12.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 352,
+        "text": "Un corredor completa 3/5 de una pista de 400 metros. ¿Cuántos metros le faltan para terminar?",
+        "options": [
+            { "text": "240 m.", "correct": false },
+            { "text": "160 m.", "correct": true },
+            { "text": "200 m.", "correct": false },
+            { "text": "120 m.", "correct": false }
+        ],
+        "sustento": "Distancia recorrida = (3/5) × 400 = 240 m. Faltan: 400 - 240 = 160 m.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 353,
+        "text": "Si el dólar cuesta $20.00 pesos mexicanos, ¿cuántos dólares puedes comprar con $1,500 pesos?",
+        "options": [
+            { "text": "75 dólares.", "correct": true },
+            { "text": "60 dólares.", "correct": false },
+            { "text": "80 dólares.", "correct": false },
+            { "text": "70 dólares.", "correct": false }
+        ],
+        "sustento": "Cantidad de dólares = 1500 ÷ 20 = 75 dólares.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 354,
+        "text": "¿Cuál es el 15% de 200?",
+        "options": [
+            { "text": "15", "correct": false },
+            { "text": "30", "correct": true },
+            { "text": "45", "correct": false },
+            { "text": "20", "correct": false }
+        ],
+        "sustento": "15% de 200 = 200 × 0.15 = 30.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 355,
+        "text": "Si una receta requiere 3 huevos para 12 galletas, ¿cuántos huevos se necesitan para 60 galletas?",
+        "options": [
+            { "text": "10 huevos.", "correct": false },
+            { "text": "15 huevos.", "correct": true },
+            { "text": "12 huevos.", "correct": false },
+            { "text": "18 huevos.", "correct": false }
+        ],
+        "sustento": "Regla de tres: (3 × 60) ÷ 12 = 180 ÷ 12 = 15 huevos.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 356,
+        "text": "¿Cuál es el resultado de (-4) * (-3) + (-10)?",
+        "options": [
+            { "text": "2", "correct": true },
+            { "text": "-22", "correct": false },
+            { "text": "22", "correct": false },
+            { "text": "-2", "correct": false }
+        ],
+        "sustento": "Primero: (-4) × (-3) = 12. Luego: 12 + (-10) = 2.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 357,
+        "text": "Una caja de 12 latas de refresco cuesta $144. ¿Cuál es el precio unitario?",
+        "options": [
+            { "text": "$10", "correct": false },
+            { "text": "$12", "correct": true },
+            { "text": "$14", "correct": false },
+            { "text": "$15", "correct": false }
+        ],
+        "sustento": "Precio por lata = 144 ÷ 12 = $12.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 358,
+        "text": "Si un ángulo mide 90 grados, ¿qué porcentaje de un círculo completo representa?",
+        "options": [
+            { "text": "25%", "correct": true },
+            { "text": "50%", "correct": false },
+            { "text": "75%", "correct": false },
+            { "text": "10%", "correct": false }
+        ],
+        "sustento": "Un círculo = 360°. Porcentaje = (90 ÷ 360) × 100 = 25%.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 359,
+        "text": "¿Qué número es mayor: 2/3 o 3/4?",
+        "options": [
+            { "text": "2/3", "correct": false },
+            { "text": "3/4", "correct": true },
+            { "text": "Son iguales.", "correct": false },
+            { "text": "No se puede comparar.", "correct": false }
+        ],
+        "sustento": "2/3 ≈ 0.666... y 3/4 = 0.75. Por lo tanto, 3/4 es mayor.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 360,
+        "text": "El promedio de tres números es 10. Si dos de los números son 8 y 12, ¿cuál es el tercer número?",
+        "options": [
+            { "text": "10", "correct": true },
+            { "text": "15", "correct": false },
+            { "text": "5", "correct": false },
+            { "text": "20", "correct": false }
+        ],
+        "sustento": "(8 + 12 + x) ÷ 3 = 10 → 20 + x = 30 → x = 10.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 361,
+        "text": "Si compras un libro de $300 con un billete de $500 y te dan un descuento del 10%, ¿cuánto recibes de cambio?",
+        "options": [
+            { "text": "$200", "correct": false },
+            { "text": "$230", "correct": true },
+            { "text": "$270", "correct": false },
+            { "text": "$170", "correct": false }
+        ],
+        "sustento": "Precio con descuento = 300 - (300 × 0.10) = 300 - 30 = $270. Cambio = 500 - 270 = $230.",
+        "categoria": "Matemáticas"
     }
 ]

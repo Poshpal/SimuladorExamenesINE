@@ -247,7 +247,7 @@ function showResults() {
                 <strong>Pregunta ${i + 1}:</strong> ${q.text}<br><br>
                 <strong>Tu respuesta:</strong> ${userText}<br>
                 <strong>Respuesta correcta:</strong> ${correctText}<br>
-                ${q.sustento ? `<div class="sustento"><strong>Sustento legal:</strong><br>${q.sustento}</div>` : ''}
+                ${q.sustento ? `<div class="sustento"><strong>Sustento o explicación:</strong><br>${q.sustento}</div>` : ''}
             </div>
         `;
     });
