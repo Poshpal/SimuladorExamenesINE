@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simulador INE - Concurso Público</title>
     <link rel="stylesheet" href="styles.css">
+    <!-- jsPDF y html2canvas (recomendado versiones estables al 2024-2025) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -69,14 +72,15 @@
                 <div id="map-buttons" class="map-buttons"></div>
             </div>
 
-            <!-- Resultados -->
            <!-- Resultados -->
             <div id="results" class="results hidden">
                 <h2>¡Examen finalizado!</h2>
                 <div id="tiempo-resultado" class="tiempo-final"></div>
                 <div id="score" class="score"></div>
                 <div id="review" class="review"></div>
+
                 <div class="results-actions">
+                    <button id="export-pdf-btn" class="action-btn">Guardar resultados como PDF</button>
                     <button id="restart-btn" class="restart-btn">Volver al inicio</button>
                 </div>
             </div>

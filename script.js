@@ -6,6 +6,7 @@ let userAnswers = [];
 
 let timerInterval = null;
 let totalTimeSeconds = 0;
+let correctCount = 0;          // ← agrega esta línea
 
 const DOM = {
     startScreen: document.getElementById('start-screen'),
@@ -117,9 +118,6 @@ Object.keys(counts).forEach(cat => {
 });
 
 document.getElementById('category-breakdown').innerHTML = breakdownText || 'No se detectaron categorías';
-
-
-    
 }
 
 // ==================== INICIAR EXAMEN ====================
@@ -231,7 +229,7 @@ function showResults() {
     DOM.quizContainer.classList.add('hidden');
     DOM.results.classList.remove('hidden');
 
-    let correctCount = 0;
+    correctCount = 0;
     let html = '';
 
     selectedQuestions.forEach((q, i) => {
@@ -247,7 +245,7 @@ function showResults() {
                 <strong>Pregunta ${i + 1}:</strong> ${q.text}<br><br>
                 <strong>Tu respuesta:</strong> ${userText}<br>
                 <strong>Respuesta correcta:</strong> ${correctText}<br>
-                ${q.sustento ? `<div class="sustento"><strong>Sustento o explicación:</strong><br>${q.sustento}</div>` : ''}
+                ${q.sustento ? `<div class="sustento"><strong>Sustento legal:</strong><br>${q.sustento}</div>` : ''}
             </div>
         `;
     });
@@ -303,12 +301,132 @@ function resetExam() {
     location.reload();
 }
 
+// ---------------------- Generar PDF ----------------------
+async function generatePDF() {
+    
+    if (typeof window.jspdf === 'undefined') {
+        alert("jsPDF no se cargó correctamente. Revisa la consola (F12) y tu conexión.");
+        return;
+    }
+
+    const { jsPDF } = window.jspdf;
+    const doc = new jsPDF();
+
+    const pageWidth = doc.internal.pageSize.getWidth();
+    const margin = 15;
+    let y = 20;
+
+    try {
+        // Título
+        doc.setFontSize(18);
+        doc.setTextColor(0, 105, 92);
+        doc.text("Resultados - Simulador INE", pageWidth / 2, y, { align: "center" });
+        y += 12;
+
+        // Datos básicos
+        doc.setFontSize(11);
+        doc.setTextColor(80);
+        doc.text(`Fecha: ${new Date().toLocaleString('es-MX')}`, margin, y); y += 8;
+        doc.text(`Preguntas: ${selectedQuestions.length}`, margin, y); y += 6;
+        doc.text(`Tiempo empleado: ${formatTime(totalTimeSeconds)}`, margin, y); y += 8;
+
+        // Calificación (usamos la variable global que ya calculamos)
+        const percentage = Math.round((correctCount / selectedQuestions.length) * 100);
+        doc.setFontSize(14);
+        doc.setTextColor(38, 166, 154);
+        doc.text(`Calificación: ${correctCount} / ${selectedQuestions.length} (${percentage}%)`, margin, y);
+        y += 10;
+
+        doc.setLineWidth(0.5);
+        doc.setDrawColor(150);
+        doc.line(margin, y, pageWidth - margin, y);
+        y += 10;
+
+        // Preguntas
+        doc.setFontSize(12);
+        doc.setTextColor(40);
+
+        for (let i = 0; i < selectedQuestions.length; i++) {
+            const q = selectedQuestions[i];
+            const userIdx = userAnswers[i];
+            const isCorrect = userIdx !== null && q.options[userIdx]?.correct === true;
+
+            doc.setTextColor(0);
+            doc.setFont("helvetica", "bold");
+            doc.text(`Pregunta ${i + 1}:`, margin, y);
+            doc.setFont("helvetica", "normal");
+
+            const qLines = doc.splitTextToSize(q.text, pageWidth - margin * 2);
+            doc.text(qLines, margin, y + 6);
+            y += 5 + qLines.length * 7;
+
+            // Tu respuesta
+            doc.setTextColor(80);
+            doc.text("Tu respuesta:", margin + 5, y);
+            const uText = userIdx !== null ? q.options[userIdx].text : "(sin responder)";
+            const uLines = doc.splitTextToSize(uText, pageWidth - margin * 3);
+            doc.text(uLines, margin + 35, y);
+            y += uLines.length * 7 + 4;
+
+            // Correcta
+            doc.setTextColor(0, 128, 0);
+            doc.text("Correcta:", margin + 5, y);
+            const cText = q.options.find(o => o.correct)?.text || "(no definida)";
+            const cLines = doc.splitTextToSize(cText, pageWidth - margin * 3);
+            doc.text(cLines, margin + 35, y);
+            y += cLines.length * 7 + 6;
+
+            if (q.sustento) {
+                doc.setTextColor(0, 105, 92);
+                doc.setFont("helvetica", "italic");
+                doc.text("Sustento:", margin + 5, y);
+                const sLines = doc.splitTextToSize(q.sustento, pageWidth - margin * 4);
+                doc.text(sLines, margin + 35, y);
+                y += sLines.length * 6 + 10;
+            }
+
+            if (y > 260) {
+                doc.addPage();
+                y = 20;
+            }
+        }
+
+        // Pie de página
+        const pageCount = doc.internal.getNumberOfPages();
+        for (let i = 1; i <= pageCount; i++) {
+            doc.setPage(i);
+            doc.setFontSize(9);
+            doc.setTextColor(120);
+            doc.text(`Página ${i} de ${pageCount} • Simulador INE`, pageWidth / 2, 290, { align: "center" });
+        }
+
+        const filename = `resultados_simulador_ine_${new Date().toISOString().slice(0,10)}.pdf`;
+        doc.save(filename);
+
+    } catch (err) {
+        console.error("Error al generar PDF:", err);
+        alert("Ocurrió un error al generar el PDF. Revisa la consola (F12) para más detalles.");
+    }
+}
+
+// Conectar el botón (asegúrate que esté después de que el DOM cargue)
+document.addEventListener('DOMContentLoaded', () => {
+    const pdfBtn = document.getElementById('export-pdf-btn');
+    if (pdfBtn) {
+        pdfBtn.addEventListener('click', generatePDF);
+        console.log("Botón PDF conectado correctamente");
+    } else {
+        console.warn("No se encontró el botón #export-pdf-btn");
+    }
+});
+
 // ==================== EVENTOS ====================
 DOM.startBtn.addEventListener('click', startExam);
 DOM.numQuestions.addEventListener('keypress', e => { if (e.key === 'Enter') startExam(); });
 DOM.prevBtn.addEventListener('click', prevQuestion);
 DOM.nextBtn.addEventListener('click', nextQuestion);
 DOM.restartBtn.addEventListener('click', resetExam);
+//DOM.PdfBtn.addEventListener('click', generatePDF);
 
 // ==================== INICIO ====================
 loadAllQuestions();

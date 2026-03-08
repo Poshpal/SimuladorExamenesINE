@@ -68,7 +68,7 @@ header h1 { font-size: 2rem; margin-bottom: 10px; }
 /* Pregunta y opciones */
 #quiz-container { padding: 40px 50px; min-height: 420px; }
 .question { 
-    font-size: 1.45rem; 
+    font-size: 1.35rem; 
     font-weight: 600; 
     margin-bottom: 35px; 
     color: var(--accent); 
@@ -85,7 +85,7 @@ header h1 { font-size: 2rem; margin-bottom: 10px; }
     background: #f8f9fa; 
     border: 3px solid #e0f2f1; 
     border-radius: 14px;
-    font-size: 1.25rem; 
+    font-size: 1.15rem; 
     cursor: pointer; 
     transition: all .3s ease;
 }
@@ -280,4 +280,31 @@ body.dark .category-breakdown {
 
 body.dark .category-breakdown strong {
     color: var(--accent);
+}
+
+.results-actions {
+    margin-top: 30px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.action-btn {
+    padding: 12px 28px;
+    font-size: 1.1rem;
+    background: #0288d1;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background 0.25s;
+}
+
+.action-btn:hover {
+    background: #01579b;
+}
+
+.action-btn:active {
+    transform: scale(0.97);
 }
