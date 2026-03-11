@@ -4432,10 +4432,10 @@
         "options": [
             { "text": "$2,555", "correct": false },
             { "text": "$2,570", "correct": false },
-            { "text": "$2,550", "correct": true },
-            { "text": "$2,565", "correct": false }
+            { "text": "$2,550", "correct": false },
+            { "text": "$2,565", "correct": true }
         ],
-        "sustento": "Primer descuento 10%: 3000 × 0.10 = 300 → saldo = 3000 − 300 = 2700. Segundo descuento 5% sobre saldo: 2700 × 0.05 = 135. Total pagado: 2700 − 135 = 2565 (pero la opción correcta según cálculo secuencial es $2,550 en algunos exámenes por redondeo o interpretación; revisando: 3000 × 0.90 = 2700, 2700 × 0.95 = 2565. La respuesta marcada es $2,550 posiblemente por error común de aplicar descuentos simultáneamente).",
+        "sustento": "Primer descuento 10%: 3000 × 0.10 = 300 → saldo = 3000 − 300 = 2700. Segundo descuento 5% sobre saldo: 2700 × 0.05 = 135. Total pagado: 2700 − 135 = 2565",
         "categoria": "Matemáticas"
     },
     {
@@ -4718,12 +4718,12 @@
         "id": 394,
         "text": "Si la probabilidad de lluvia es del 40%, ¿qué significa en términos de probabilidad clásica?",
         "options": [
-            { "text": "4/100", "correct": true },
-            { "text": "0.4", "correct": false },
+            { "text": "4/100", "correct": false },
+            { "text": "0.4", "correct": true },
             { "text": "40", "correct": false },
             { "text": "1/40", "correct": false }
         ],
-        "sustento": "40% = 40/100 = 4/100 (fracción simplificada).",
+        "sustento": "40% = 40/100 = 0.4",
         "categoria": "Matemáticas"
     },
     {
@@ -5258,12 +5258,12 @@
         "id": 439,
         "text": "Un número excede en 5 a su doble disminuido en 3. ¿Cuál es el número?",
         "options": [
-            { "text": "-2", "correct": false },
-            { "text": "4", "correct": true },
+            { "text": "-2", "correct": true },
+            { "text": "4", "correct": false },
             { "text": "-6", "correct": false },
             { "text": "2", "correct": false }
         ],
-        "sustento": "Sea n el número. Según el enunciado: n = 2n - 3 + 5 → n = 2n + 2 → n - 2n = 2 → -n = 2 → n = -2. Revisión: el enunciado indica que el número excede en 5 al doble disminuido en 3, es decir: n = (2n - 3) + 5. Resolviendo: n = 2n + 2 → n = -2. Pero probando valores, la opción correcta según contexto común es 4 (posible redacción ambigua). Cálculo correcto da n = -2.",
+        "sustento": "Sea n el número. Según el enunciado: n = 2n - 3 + 5 → n = 2n + 2 → n - 2n = 2 → -n = 2 → n = -2. Revisión: el enunciado indica que el número excede en 5 al doble disminuido en 3, es decir: n = (2n - 3) + 5. Resolviendo: n = 2n + 2 → n = -2",
         "categoria": "Matemáticas"
     },
     {
