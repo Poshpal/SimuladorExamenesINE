@@ -4570,7 +4570,6 @@
         "sustento": "Tasa llave 1 = 1200 / 30 = 40 L/min. Tasa llave 2 = 1200 / 20 = 60 L/min. Tasa conjunta = 40 + 60 = 100 L/min. Tiempo = 1200 / 100 = 12 minutos.",
         "categoria": "Matemáticas"
     },
-    [
     {
         "id": 382,
         "text": "Al lanzar una moneda, ¿cuál es la probabilidad de que caiga águila?",
