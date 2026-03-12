@@ -5469,5 +5469,221 @@
         ],
         "sustento": "Patrón alternante: ×2, -2, ×2, -2… → 5×2=10, 10-2=8, 8×2=16, 16-2=14, 14×2=28.",
         "categoria": "Matemáticas"
-    }
+    },
+    {
+    "id": 457,
+    "text": "En el Ámbito de participación social, ¿qué tipo de texto tiene como principal objetivo establecer normas o reglas de convivencia en un espacio determinado?",
+    "options": [
+      { "text": "Un cuento corto.", "correct": false },
+      { "text": "Un artículo de divulgación.", "correct": false },
+      { "text": "Un ensayo literario.", "correct": false },
+      { "text": "Un reglamento.", "correct": true }
+    ],
+    "sustento": "Es el documento normativo por excelencia diseñado para pautar conductas y normas de convivencia.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 458,
+    "text": "Selecciona la opción que presenta un uso correcto de los signos de puntuación.",
+    "options": [
+      { "text": "Compramos manzanas peras uvas y plátanos.", "correct": false },
+      { "text": "Compramos manzanas, peras, uvas y plátanos.", "correct": true },
+      { "text": "Compramos, manzanas, peras, uvas y plátanos.", "correct": false },
+      { "text": "Compramos manzanas, peras, uvas, y plátanos.", "correct": false }
+    ],
+    "sustento": "Respeta las reglas de la enumeración, separando los elementos con coma y usando la conjunción antes del último.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 459,
+    "text": "¿Qué oración debe eliminarse del siguiente párrafo por romper la cohesión del tema central? [1] El café es una de las bebidas más consumidas en el mundo. [2] Sus granos se cultivan principalmente en zonas tropicales. [3] El té verde tiene propiedades antioxidantes muy buenas para la salud. [4] Tras la cosecha, los granos de café se tuestan para resaltar su aroma.",
+    "options": [
+      { "text": "Oración 4", "correct": false },
+      { "text": "Oración 2", "correct": false },
+      { "text": "Oración 3", "correct": true },
+      { "text": "Oración 1", "correct": false }
+    ],
+    "sustento": "Introduce un tema completamente distinto (el té verde), rompiendo el hilo conductor sobre el café.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 460,
+    "text": "Identifica la opción que presenta la ortografía correcta.",
+    "options": [
+      { "text": "La decición que tomó afectó a toda la comunidad.", "correct": false },
+      { "text": "Siempre hay que elejir la mejor alternativa posible.", "correct": false },
+      { "text": "El abance tecnológico es innegable en esta década.", "correct": false },
+      { "text": "El juez dictó la sentencia con total imparcialidad.", "correct": true }
+    ],
+    "sustento": "Todas las palabras están escritas respetando las reglas ortográficas del español.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 461,
+    "text": "Ordena las siguientes ideas para formar un párrafo coherente: 1. Como resultado, la temperatura global ha aumentado. 2. La revolución industrial marcó el inicio de la quema masiva de combustibles fósiles. 3. Estas emisiones se acumulan en la atmósfera creando el efecto invernadero. 4. Este proceso libera grandes cantidades de dióxido de carbono.",
+    "options": [
+      { "text": "2, 4, 3, 1", "correct": true },
+      { "text": "4, 3, 1, 2", "correct": false },
+      { "text": "2, 1, 4, 3", "correct": false },
+      { "text": "1, 3, 4, 2", "correct": false }
+    ],
+    "sustento": "Inicia con el contexto histórico (2), explica la acción directa (4), describe el proceso resultante (3) y termina con la consecuencia final (1).",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 462,
+    "text": "Elige el sinónimo más adecuado para sustituir la palabra subrayada: 'El investigador fue muy meticuloso al registrar cada variable del experimento.'",
+    "options": [
+      { "text": "Distraído", "correct": false },
+      { "text": "Creativo", "correct": false },
+      { "text": "Riguroso", "correct": true },
+      { "text": "Rápido", "correct": false }
+    ],
+    "sustento": "Comparte el significado de actuar con extrema precisión y cuidado al realizar una tarea.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 463,
+    "text": "¿En cuál oración se emplean correctamente las letras mayúsculas?",
+    "options": [
+      { "text": "La Organización de las Naciones Unidas emitió un comunicado.", "correct": true },
+      { "text": "El Presidente viajó al sur del país en Enero.", "correct": false },
+      { "text": "Ayer leímos un poema de la época del Renacimiento italiano.", "correct": false },
+      { "text": "El río Amazonas es el más caudaloso de américa del sur.", "correct": false }
+    ],
+    "sustento": "Las instituciones y entidades se escriben con mayúscula inicial en todas sus palabras significativas.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 464,
+    "text": "Selecciona la palabra que requiere tilde (acento gráfico) por ser esdrújula.",
+    "options": [
+      { "text": "Murcielago", "correct": true },
+      { "text": "Arbol", "correct": false },
+      { "text": "Examen", "correct": false },
+      { "text": "Bambú", "correct": false }
+    ],
+    "sustento": "La sílaba tónica recae en la antepenúltima sílaba (cié), por regla general, todas se acentúan.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 465,
+    "text": "Completa la oración con el verbo en el tiempo y modo correctos: 'Si nosotros __________ más tiempo, habríamos terminado el proyecto a tiempo.'",
+    "options": [
+      { "text": "tuvimos", "correct": false },
+      { "text": "hubiéramos tenido", "correct": true },
+      { "text": "tenemos", "correct": false },
+      { "text": "tendremos", "correct": false }
+    ],
+    "sustento": "Usa el pretérito pluscuamperfecto de subjuntivo, necesario para coordinar con el condicional compuesto 'habríamos terminado'.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 466,
+    "text": "¿Qué figura retórica se utiliza en la expresión: 'Tus ojos son dos luceros que iluminan mi noche'?",
+    "options": [
+      { "text": "Metáfora", "correct": true },
+      { "text": "Símil", "correct": false },
+      { "text": "Onomatopeya", "correct": false },
+      { "text": "Hipérbaton", "correct": false }
+    ],
+    "sustento": "Identifica un término real (ojos) con uno imaginario (luceros) basándose en una relación de semejanza (brillo), sin usar nexos comparativos.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 467,
+    "text": "Identifica la opción que reformula la siguiente oración manteniendo exactamente su mismo sentido: 'A pesar de la lluvia, el evento no fue cancelado.'",
+    "options": [
+      { "text": "Si llueve, el evento será cancelado.", "correct": false },
+      { "text": "El evento se canceló por culpa de la lluvia.", "correct": false },
+      { "text": "El evento no se canceló porque no llovió.", "correct": false },
+      { "text": "Aunque llovió, el evento se llevó a cabo.", "correct": true }
+    ],
+    "sustento": "El conector 'aunque' mantiene el valor concesivo original, y afirma que el evento sucedió, respetando el significado original.",
+    "categoria": "Lenguaje y Comunicación"
+  },
+  {
+    "id": 468,
+    "text": "Dados los conjuntos A={1,2,3,4} y B={3,4,5,6}, ¿cuál de los siguientes conjuntos representa A∪B?",
+    "options": [
+      { "text": "{3,4}", "correct": false },
+      { "text": "{1,2}", "correct": false },
+      { "text": "{5,6}", "correct": false },
+      { "text": "{1,2,3,4,5,6}", "correct": true }
+    ],
+    "sustento": "La unión comprende todos los elementos que están en A, en B o en ambos, sin repetir los elementos comunes.",
+    "categoria": "Matemáticas"
+  },
+  {
+    "id": 469,
+    "text": "Sea el conjunto U={a,b,c,d,e} el conjunto universal. Si A={b,c,d}, ¿cuál es el complemento de A, denotado como A’?",
+    "options": [
+      { "text": "{b,c,d}", "correct": false },
+      { "text": "{}", "correct": false },
+      { "text": "{a,b,c,d,e}", "correct": false },
+      { "text": "{a,e}", "correct": true }
+    ],
+    "sustento": "El complemento está formado por todos los elementos del universo que no pertenecen al conjunto A.",
+    "categoria": "Matemáticas"
+  },
+  {
+    "id": 470,
+    "text": "En un grupo de 40 estudiantes, 25 estudian francés y 20 estudian alemán. Si 10 estudian ambos, ¿cuántos no estudian ninguno?",
+    "options": [
+      { "text": "10", "correct": false },
+      { "text": "5", "correct": true },
+      { "text": "15", "correct": false },
+      { "text": "0", "correct": false }
+    ],
+    "sustento": "Estudiantes que estudian al menos un idioma: 25+20−10=35. El total sin idiomas es 40−35=5.",
+    "categoria": "Matemáticas"
+  },
+  {
+    "id": 471,
+    "text": "Considera el conjunto por comprensión: M={ x ∈ N ∣ x es par y 2 < x ≤ 8}. ¿Cómo se expresa M por extensión?",
+    "options": [
+      { "text": "{4,6,8}", "correct": true },
+      { "text": "{2,4,6,8}", "correct": false },
+      { "text": "{4,6}", "correct": false },
+      { "text": "{3,4,5,6,7,8}", "correct": false }
+    ],
+    "sustento": "Cumple estrictamente con ser números naturales, pares, mayores que 2 y menores o iguales a 8.",
+    "categoria": "Matemáticas"
+  },
+  {
+    "id": 472,
+    "text": "Si C={a,b,c} y D={a,b,c,d,e}, ¿cuál de las siguientes afirmaciones matemáticas es correcta?",
+    "options": [
+      { "text": "C∈D", "correct": false },
+      { "text": "C⊂D", "correct": true },
+      { "text": "C∩D={}", "correct": false },
+      { "text": "D⊂C", "correct": false }
+    ],
+    "sustento": "Todos los elementos del conjunto C están presentes dentro del conjunto D, por lo que es un subconjunto.",
+    "categoria": "Matemáticas"
+  },
+  {
+    "id": 473,
+    "text": "Dados los conjuntos X = {1,3,5,7} y Y = {2,4,6,8}. ¿Cuál es el resultado de la intersección X∩Y?",
+    "options": [
+      { "text": "{1,2,3,4,5,6,7,8}", "correct": false },
+      { "text": "0", "correct": false },
+      { "text": "{1,3,5,7}", "correct": false },
+      { "text": "{} (Conjunto vacío)", "correct": true }
+    ],
+    "sustento": "No hay ningún elemento que pertenezca simultáneamente a los números impares de X y a los pares de Y.",
+    "categoria": "Matemáticas"
+  },
+  {
+    "id": 474,
+    "text": "De 100 personas encuestadas, 60 prefieren el fútbol, 45 el baloncesto y 20 ambos deportes. ¿Cuántas personas prefieren únicamente el baloncesto?",
+    "options": [
+      { "text": "40", "correct": false },
+      { "text": "15", "correct": false },
+      { "text": "45", "correct": false },
+      { "text": "25", "correct": true }
+    ],
+    "sustento": "Se obtiene restando los que prefieren ambos deportes del total de los que prefieren baloncesto (45−20=25).",
+    "categoria": "Matemáticas"
+  }
 ]
