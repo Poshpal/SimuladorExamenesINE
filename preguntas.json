@@ -5688,67 +5688,67 @@
   },
     {
         "id": 475,
-        "text": "Un joven de 19 años, nacido en México y con un empleo lícito como técnico, desea saber si ya es considerado ciudadano de la República. A) No, requiere tener 21 años cumplidos. B) Sí, por tener la calidad de mexicano, haber cumplido 18 años y tener un modo honesto de vivir. C) Solo si se inscribe previamente en un partido político. D) No, hasta que acredite haber concluido su educación superior.",
+        "text": "Un joven de 19 años, nacido en México y con un empleo lícito como técnico, desea saber si ya es considerado ciudadano de la República.",
         "options": [
             { "text": "No, requiere tener 21 años cumplidos.", "correct": false },
             { "text": "Sí, por tener la calidad de mexicano, haber cumplido 18 años y tener un modo honesto de vivir.", "correct": true },
             { "text": "Solo si se inscribe previamente en un partido político.", "correct": false },
             { "text": "No, hasta que acredite haber concluido su educación superior.", "correct": false }
         ],
-        "sustento": "Artículo 34, fracciones I y II.",
+        "sustento": "Artículo 34, fracciones I y II de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 476,
-        "text": "Una ciudadana desea registrarse como candidata independiente para una diputación federal. ¿Qué artículo garantiza su derecho a ser votada en condiciones de paridad? A) Artículo 1o. B) Artículo 35, fracción II. C) Artículo 41, Base I. D) Artículo 115, fracción I.",
+        "text": "Una ciudadana desea registrarse como candidata independiente para una diputación federal. ¿Qué artículo garantiza su derecho a ser votada en condiciones de paridad?",
         "options": [
             { "text": "Artículo 1o.", "correct": false },
             { "text": "Artículo 35, fracción II.", "correct": true },
             { "text": "Artículo 41, Base I.", "correct": false },
             { "text": "Artículo 115, fracción I.", "correct": false }
         ],
-        "sustento": "Artículo 35, fracción II.",
+        "sustento": "Artículo 35, fracción II de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 477,
-        "text": "Un ciudadano se niega a votar en las elecciones federales argumentando que es solo un derecho y no una obligación. ¿Es correcta su postura? A) Sí, votar es una libertad absoluta sin carácter obligatorio. B) No, el voto es un derecho pero no una obligación ciudadana. C) No, votar en las elecciones es una obligación del ciudadano de la República. D) Sí, siempre y cuando presente una justificación médica.",
+        "text": "Un ciudadano se niega a votar en las elecciones federales argumentando que es solo un derecho y no una obligación. ¿Es correcta su postura?",
         "options": [
             { "text": "Sí, votar es una libertad absoluta sin carácter obligatorio.", "correct": false },
             { "text": "No, el voto es un derecho pero no una obligación ciudadana.", "correct": false },
             { "text": "No, votar en las elecciones es una obligación del ciudadano de la República.", "correct": true },
             { "text": "Sí, siempre y cuando presente una justificación médica.", "correct": false }
         ],
-        "sustento": "Artículo 36, fracción III.",
+        "sustento": "Artículo 36, fracción III de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 478,
-        "text": "Debido a una sentencia judicial firme, a un individuo se le han suspendido sus derechos ciudadanos por estar sujeto a un proceso criminal por delito que merezca pena corporal. ¿Desde cuándo surte efecto esta suspensión? A) Desde que se dicta el auto de vinculación a proceso. B) Desde el momento en que se comete el ilícito. C) Desde la fecha del auto de formal prisión. D) Desde que ingresa al centro penitenciario.",
+        "text": "Debido a una sentencia judicial firme, a un individuo se le han suspendido sus derechos ciudadanos por estar sujeto a un proceso criminal por delito que merezca pena corporal. ¿Desde cuándo surte efecto esta suspensión?",
         "options": [
             { "text": "Desde que se dicta el auto de vinculación a proceso.", "correct": false },
             { "text": "Desde el momento en que se comete el ilícito.", "correct": false },
             { "text": "Desde la fecha del auto de formal prisión.", "correct": true },
             { "text": "Desde que ingresa al centro penitenciario.", "correct": false }
         ],
-        "sustento": "Artículo 38, fracción II.",
+        "sustento": "Artículo 38, fracción II de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 479,
-        "text": "Un mexicano por naturalización adquiere voluntariamente una nacionalidad extranjera. Según la Constitución, ¿qué sucede con su nacionalidad mexicana? A) No la pierde, pues la nacionalidad es irrenunciable. B) La pierde por adquisición voluntaria de una nacionalidad extranjera. C) Se mantiene en suspensión hasta que renuncie a la extranjera. D) Solo la pierde si el Ejecutivo Federal emite un decreto especial.",
+        "text": "Un mexicano por naturalización adquiere voluntariamente una nacionalidad extranjera. Según la Constitución, ¿qué sucede con su nacionalidad mexicana?",
         "options": [
             { "text": "No la pierde, pues la nacionalidad es irrenunciable.", "correct": false },
             { "text": "La pierde por adquisición voluntaria de una nacionalidad extranjera.", "correct": true },
             { "text": "Se mantiene en suspensión hasta que renuncie a la extranjera.", "correct": false },
             { "text": "Solo la pierde si el Ejecutivo Federal emite un decreto especial.", "correct": false }
         ],
-        "sustento": "Artículo 37, Apartado B, fracción I.",
+        "sustento": "Artículo 37, Apartado B, fracción I de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 480,
-        "text": "¿Cuál es la consecuencia para un ciudadano que falta al cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo 36 de la CPEUM? A) Multa de 100 a 500 días de salario mínimo. B) Suspensión de sus derechos o prerrogativas por un año. C) Arresto administrativo por 36 horas. D) Inhabilitación permanente para ejercer cargos públicos.",
+        "text": "¿Cuál es la consecuencia para un ciudadano que falta al cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo 36 de la CPEUM?",
         "options": [
             { "text": "Multa de 100 a 500 días de salario mínimo.", "correct": false },
             { "text": "Suspensión de sus derechos o prerrogativas por un año.", "correct": true },
@@ -5760,43 +5760,43 @@
     },
     {
         "id": 481,
-        "text": "Un grupo de ciudadanos desea asociarse para formar un nuevo partido político nacional. ¿Quiénes tienen el derecho exclusivo de asociarse individual y libremente para tomar parte en los asuntos políticos del país? A) Todos los residentes del territorio nacional. B) Los ciudadanos de la República. C) Únicamente los militantes de partidos existentes. D) Los mexicanos por nacimiento mayores de 30 años.",
+        "text": "Un grupo de ciudadanos desea asociarse para formar un nuevo partido político nacional. ¿Quiénes tienen el derecho exclusivo de asociarse individual y libremente para tomar parte en los asuntos políticos del país?",
         "options": [
             { "text": "Todos los residentes del territorio nacional.", "correct": false },
             { "text": "Los ciudadanos de la República.", "correct": true },
             { "text": "Únicamente los militantes de partidos existentes.", "correct": false },
             { "text": "Los mexicanos por nacimiento mayores de 30 años.", "correct": false }
         ],
-        "sustento": "Artículo 35, fracción III.",
+        "sustento": "Artículo 35, fracción III de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 482,
-        "text": "En una comunidad indígena, se busca elegir autoridades municipales. ¿Qué limitación tienen sus sistemas normativos internos respecto a los derechos político-electorales? A) Pueden restringir el voto a los jóvenes. B) No pueden limitar los derechos político-electorales de los ciudadanos en la elección de sus autoridades. C) Solo pueden votar los jefes de familia. D) Deben ajustarse a lo que decida el Congreso del Estado exclusivamente.",
+        "text": "En una comunidad indígena, se busca elegir autoridades municipales. ¿Qué limitación tienen sus sistemas normativos internos respecto a los derechos político-electorales?",
         "options": [
             { "text": "Pueden restringir el voto a los jóvenes.", "correct": false },
             { "text": "No pueden limitar los derechos político-electorales de los ciudadanos en la elección de sus autoridades.", "correct": true },
             { "text": "Solo pueden votar los jefes de familia.", "correct": false },
             { "text": "Deben ajustarse a lo que decida el Congreso del Estado exclusivamente.", "correct": false }
         ],
-        "sustento": "Artículo 2o., Apartado A, fracción III.",
+        "sustento": "Artículo 2o., Apartado A, fracción III de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 483,
-        "text": "¿Qué requisito de edad establece la CPEUM para ser Secretario de Estado? A) 25 años cumplidos. B) 30 años cumplidos. C) Estar en ejercicio de sus derechos y ser ciudadano mexicano por nacimiento. D) 35 años cumplidos.",
+        "text": "¿Qué requisito de edad establece la CPEUM para ser Secretario de Estado?",
         "options": [
             { "text": "25 años cumplidos.", "correct": false },
             { "text": "30 años cumplidos.", "correct": false },
             { "text": "Estar en ejercicio de sus derechos y ser ciudadano mexicano por nacimiento.", "correct": true },
             { "text": "35 años cumplidos.", "correct": false }
         ],
-        "sustento": "Artículo 91.",
+        "sustento": "Artículo 91 de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 484,
-        "text": "Un ciudadano ha sido nombrado para desempeñar una función electoral como funcionario de casilla. ¿Qué carácter tiene esta función según el artículo 5o.? A) Voluntaria y remunerada. B) Obligatoria y gratuita. C) Obligatoria y retribuida profesionalmente en todos los casos. D) Opcional si se justifica carga de trabajo.",
+        "text": "Un ciudadano ha sido nombrado para desempeñar una función electoral como funcionario de casilla. ¿Qué carácter tiene esta función según el artículo 5o de la CPEUM?",
         "options": [
             { "text": "Voluntaria y remunerada.", "correct": false },
             { "text": "Obligatoria y gratuita.", "correct": true },
@@ -5808,31 +5808,31 @@
     },
     {
         "id": 485,
-        "text": "Un aspirante a la Presidencia de la República nació en el extranjero pero es hijo de padres mexicanos por nacimiento. ¿Cumple con el requisito de nacionalidad? A) No, debe ser nacido en territorio nacional. B) Sí, siempre que sea ciudadano mexicano por nacimiento y tenga padres mexicanos por nacimiento. C) Solo si renuncia a su otra nacionalidad 10 años antes. D) No, el requisito es ser mexicano por nacimiento nacido en México.",
+        "text": "Un aspirante a la Presidencia de la República nació en el extranjero pero es hijo de padres mexicanos por nacimiento. ¿Cumple con el requisito de nacionalidad?",
         "options": [
             { "text": "No, debe ser nacido en territorio nacional.", "correct": false },
             { "text": "Sí, siempre que sea ciudadano mexicano por nacimiento y tenga padres mexicanos por nacimiento.", "correct": true },
             { "text": "Solo si renuncia a su otra nacionalidad 10 años antes.", "correct": false },
             { "text": "No, el requisito es ser mexicano por nacimiento nacido en México.", "correct": false }
         ],
-        "sustento": "Artículo 82, fracción I.",
+        "sustento": "Artículo 82, fracción I de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 486,
-        "text": "¿Con cuánta antelación debe separarse de su cargo un Secretario de Estado que desea competir por la Presidencia de la República? A) 90 días antes de la elección. B) Un año antes del día de la elección. C) Seis meses antes del día de la elección. D) No necesita separarse si pide licencia sin goce de sueldo.",
+        "text": "¿Con cuánta antelación debe separarse de su cargo un Secretario de Estado que desea competir por la Presidencia de la República?",
         "options": [
             { "text": "90 días antes de la elección.", "correct": false },
             { "text": "Un año antes del día de la elección.", "correct": false },
             { "text": "Seis meses antes del día de la elección.", "correct": true },
             { "text": "No necesita separarse si pide licencia sin goce de sueldo.", "correct": false }
         ],
-        "sustento": "Artículo 82, fracción VI.",
+        "sustento": "Artículo 82, fracción VI de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 487,
-        "text": "Bajo la reforma de 2025, el cónyuge de la persona que actualmente ocupa la Presidencia de la República desea postularse para el mismo cargo en el periodo inmediato. ¿Es esto constitucionalmente posible? A) Sí, si gana la encuesta de su partido. B) No, por tener vínculo de matrimonio con quien ejerce la titularidad del Ejecutivo, si se da dentro de los 3 años anteriores a la elección. C) Sí, la prohibición de no reelección solo aplica al titular, no a sus familiares. D) Solo si se divorcian legalmente antes del registro.",
+        "text": "Bajo la reforma de 2025, el cónyuge de la persona que actualmente ocupa la Presidencia de la República desea postularse para el mismo cargo en el periodo inmediato. ¿Es esto constitucionalmente posible?",
         "options": [
             { "text": "Sí, si gana la encuesta de su partido.", "correct": false },
             { "text": "No, por tener vínculo de matrimonio con quien ejerce la titularidad del Ejecutivo, si se da dentro de los 3 años anteriores a la elección.", "correct": true },
@@ -5844,7 +5844,7 @@
     },
     {
         "id": 488,
-        "text": "Para ser Diputado Federal, ¿qué edad mínima debe tener el candidato el día de la elección? A) 21 años. B) 18 años cumplidos. C) 25 años. D) 30 años.",
+        "text": "Para ser Diputado Federal, ¿qué edad mínima debe tener el candidato el día de la elección?",
         "options": [
             { "text": "21 años.", "correct": false },
             { "text": "18 años cumplidos.", "correct": true },
@@ -5856,7 +5856,7 @@
     },
     {
         "id": 489,
-        "text": "Un General en servicio activo de la Guardia Nacional desea postularse como Diputado Federal. ¿Qué debe hacer? A) Nada, puede ser electo y luego pedir licencia. B) No estar en servicio activo cuando menos 90 días antes de la elección. C) Renunciar definitivamente a su carrera militar. D) Solo puede postularse por la vía de representación proporcional.",
+        "text": "Un General en servicio activo de la Guardia Nacional desea postularse como Diputado Federal. ¿Qué debe hacer?",
         "options": [
             { "text": "Nada, puede ser electo y luego pedir licencia.", "correct": false },
             { "text": "No estar en servicio activo cuando menos 90 días antes de la elección.", "correct": true },
@@ -5868,7 +5868,7 @@
     },
     {
         "id": 490,
-        "text": "Un ministro de un culto religioso desea ser Diputado Federal. ¿Cuál es el impedimento constitucional? A) No hay impedimento si es lícito el culto. B) No ser persona ministra de algún culto religioso. C) Debe renunciar al culto 10 años antes. D) Solo puede ser suplente.",
+        "text": "Un ministro de un culto religioso desea ser Diputado Federal. ¿Cuál es el impedimento constitucional?",
         "options": [
             { "text": "No hay impedimento si es lícito el culto.", "correct": false },
             { "text": "No ser persona ministra de algún culto religioso.", "correct": true },
@@ -5880,7 +5880,7 @@
     },
     {
         "id": 491,
-        "text": "En la elección de un Ayuntamiento, el hermano del actual Presidente Municipal busca la candidatura al mismo cargo. Según el artículo 115 reformado en 2025: A) Es válido si el partido lo postula. B) Es improcedente por tener parentesco por consanguinidad con quien ejerce la titularidad del cargo. C) Solo es prohibido para el cónyuge, no para hermanos. D) Es posible si el municipio tiene más de 100,000 habitantes.",
+        "text": "En la elección de un Ayuntamiento, el hermano del actual Presidente Municipal busca la candidatura al mismo cargo. Según el artículo 115 reformado en 2025:",
         "options": [
             { "text": "Es válido si el partido lo postula.", "correct": false },
             { "text": "Es improcedente por tener parentesco por consanguinidad con quien ejerce la titularidad del cargo.", "correct": true },
@@ -5892,7 +5892,7 @@
     },
     {
         "id": 492,
-        "text": "Para ser Gobernador de un Estado, un candidato que no es nativo de esa entidad debe acreditar una residencia efectiva no menor a: A) Un año. B) Tres años. C) Cinco años inmediatamente anteriores al día de los comicios. D) Diez años alternados.",
+        "text": "Para ser Gobernador de un Estado, un candidato que no es nativo de esa entidad debe acreditar una residencia efectiva no menor a: ",
         "options": [
             { "text": "Un año.", "correct": false },
             { "text": "Tres años.", "correct": false },
@@ -5904,31 +5904,31 @@
     },
     {
         "id": 493,
-        "text": "¿Cuál es la edad mínima establecida en la CPEUM para ser Gobernador, a menos que la Constitución local fije una menor? A) 25 años. B) 35 años. C) 30 años cumplidos el día de la elección. D) 18 años.",
+        "text": "¿Cuál es la edad mínima establecida en la CPEUM para ser Gobernador, a menos que la Constitución local fije una menor?",
         "options": [
             { "text": "25 años.", "correct": false },
             { "text": "35 años.", "correct": false },
             { "text": "30 años cumplidos el día de la elección.", "correct": true },
             { "text": "18 años.", "correct": false }
         ],
-        "sustento": "Artículo 116, párrafo segundo, fracción I.",
+        "sustento": "Artículo 116, párrafo segundo, fracción I de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 494,
-        "text": "De acuerdo con el artículo 95, ¿cuántos años de práctica profesional mínima requiere un aspirante a Ministro de la Suprema Corte de Justicia de la Nación? A) Tres años. B) Diez años. C) Cinco años en el ejercicio de la actividad jurídica. D) No se requiere práctica si tiene doctorado.",
+        "text": "De acuerdo con el artículo 95, ¿cuántos años de práctica profesional mínima requiere un aspirante a Ministro de la Suprema Corte de Justicia de la Nación?",
         "options": [
             { "text": "Tres años.", "correct": false },
             { "text": "Diez años.", "correct": false },
             { "text": "Cinco años en el ejercicio de la actividad jurídica.", "correct": true },
             { "text": "No se requiere práctica si tiene doctorado.", "correct": false }
         ],
-        "sustento": "Artículo 95, fracción III.",
+        "sustento": "Artículo 95, fracción III de la CPEUM.",
         "categoria": "Sistema Político"
     },
     {
         "id": 495,
-        "text": "El Instituto Nacional Electoral (INE) es un organismo público autónomo. ¿Cuáles son los principios rectores que deben regir el ejercicio de su función estatal? A) Eficiencia, honradez y celeridad. B) Certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad. C) Democracia, justicia y equidad de género. D) Autonomía, jerarquía y profesionalismo.",
+        "text": "El Instituto Nacional Electoral (INE) es un organismo público autónomo. ¿Cuáles son los principios rectores que deben regir el ejercicio de su función estatal?",
         "options": [
             { "text": "Eficiencia, honradez y celeridad.", "correct": false },
             { "text": "Certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.", "correct": true },
@@ -5940,7 +5940,7 @@
     },
     {
         "id": 496,
-        "text": "¿Cómo se integra el Consejo General del INE, que es su órgano superior de dirección? A) Por un Presidente y 15 consejeros elegidos por el Senado. B) Por un consejero Presidente, diez consejeros electorales, consejeros del Poder Legislativo, representantes de partidos y un Secretario Ejecutivo. C) Únicamente por ciudadanos insaculados por la Suprema Corte. D) Por los presidentes de los organismos electorales locales.",
+        "text": "¿Cómo se integra el Consejo General del INE, que es su órgano superior de dirección?",
         "options": [
             { "text": "Por un Presidente y 15 consejeros elegidos por el Senado.", "correct": false },
             { "text": "Por un consejero Presidente, diez consejeros electorales, consejeros del Poder Legislativo, representantes de partidos y un Secretario Ejecutivo.", "correct": true },
@@ -5952,7 +5952,7 @@
     },
     {
         "id": 497,
-        "text": "Una empresa privada contrata propaganda en televisión para influir en las preferencias electorales a favor de un partido. ¿Qué establece la Constitución al respecto? A) Es legal si se paga con recursos privados. B) Está prohibido; ninguna persona física o moral puede contratar propaganda en radio y TV dirigida a influir en las preferencias. C) Es legal siempre que no use calumnias. D) Solo es ilegal si la empresa es extranjera.",
+        "text": "Una empresa privada contrata propaganda en televisión para influir en las preferencias electorales a favor de un partido. ¿Qué establece la Constitución al respecto?",
         "options": [
             { "text": "Es legal si se paga con recursos privados.", "correct": false },
             { "text": "Está prohibido; ninguna persona física o moral puede contratar propaganda en radio y TV dirigida a influir en las preferencias.", "correct": true },
@@ -5964,7 +5964,7 @@
     },
     {
         "id": 498,
-        "text": "El INE es la autoridad única para administrar el tiempo del Estado en radio y televisión destinado a fines electorales. ¿Puede un candidato independiente comprar tiempo aire por su cuenta? A) Sí, con recursos de su financiamiento privado. B) No, los candidatos en ningún momento podrán contratar o adquirir tiempos en radio y televisión. C) Solo en estaciones de radio comunitarias. D) Sí, si el INE no le asigna tiempo suficiente.",
+        "text": "El INE es la autoridad única para administrar el tiempo del Estado en radio y televisión destinado a fines electorales. ¿Puede un candidato independiente comprar tiempo aire por su cuenta?",
         "options": [
             { "text": "Sí, con recursos de su financiamiento privado.", "correct": false },
             { "text": "No, los candidatos en ningún momento podrán contratar o adquirir tiempos en radio y televisión.", "correct": true },
@@ -5976,7 +5976,7 @@
     },
     {
         "id": 499,
-        "text": "¿Qué porcentaje del financiamiento público anual de los partidos políticos debe destinarse a actividades específicas (educación, capacitación, investigación)? A) El 2%. B) El 3%. C) El 5%. D) El 10%.",
+        "text": "¿Qué porcentaje del financiamiento público anual de los partidos políticos debe destinarse a actividades específicas (educación, capacitación, investigación)?",
         "options": [
             { "text": "El 2%.", "correct": false },
             { "text": "El 3%.", "correct": true },
@@ -5988,7 +5988,7 @@
     },
     {
         "id": 500,
-        "text": "En un proceso electoral federal, se acredita que un candidato excedió su gasto de campaña en un 6% del monto autorizado. Si la diferencia con el segundo lugar es del 3%, ¿qué procede? A) Solo se le impone una multa económica. B) La elección será nula por ser una violación grave y determinante. C) Se le quita la constancia de mayoría y se le da al segundo lugar. D) Se repite la votación solo en las casillas donde hubo exceso.",
+        "text": "En un proceso electoral federal, se acredita que un candidato excedió su gasto de campaña en un 6% del monto autorizado. Si la diferencia con el segundo lugar es del 3%, ¿qué procede?",
         "options": [
             { "text": "Solo se le impone una multa económica.", "correct": false },
             { "text": "La elección será nula por ser una violación grave y determinante.", "correct": true },
@@ -6000,7 +6000,7 @@
     },
     {
         "id": 501,
-        "text": "¿Quién es el encargado de la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos? A) La Auditoría Superior de la Federación. B) El Consejo General del INE a través de sus órganos técnicos. C) El Tribunal Electoral del Poder Judicial de la Federación. D) La Secretaría de Hacienda y Crédito Público.",
+        "text": "¿Quién es el encargado de la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos?",
         "options": [
             { "text": "La Auditoría Superior de la Federación.", "correct": false },
             { "text": "El Consejo General del INE a través de sus órganos técnicos.", "correct": true },
@@ -6012,7 +6012,7 @@
     },
     {
         "id": 502,
-        "text": "Un ciudadano desea impugnar la validez de una elección de senadores. ¿Qué sistema de medios de impugnación garantiza la constitucionalidad y legalidad de estos actos? A) El juicio de amparo ante un Juez de Distrito. B) El sistema de medios de impugnación en materia electoral que resuelve el Tribunal Electoral. C) Una queja administrativa ante la CNDH. D) Una controversia constitucional ante la SCJN.",
+        "text": "Un ciudadano desea impugnar la validez de una elección de senadores. ¿Qué sistema de medios de impugnación garantiza la constitucionalidad y legalidad de estos actos?",
         "options": [
             { "text": "El juicio de amparo ante un Juez de Distrito.", "correct": false },
             { "text": "El sistema de medios de impugnación en materia electoral que resuelve el Tribunal Electoral.", "correct": true },
@@ -6024,7 +6024,7 @@
     },
     {
         "id": 503,
-        "text": "¿Cuánto tiempo duran las campañas electorales en el año que se elige Presidente de la República, Senadores y Diputados Federales? A) 60 días. B) 120 días. C) 90 días. D) Lo que determine el INE cada elección.",
+        "text": "¿Cuánto tiempo duran las campañas electorales en el año que se elige Presidente de la República, Senadores y Diputados Federales?",
         "options": [
             { "text": "60 días.", "correct": false },
             { "text": "120 días.", "correct": false },
@@ -6036,7 +6036,7 @@
     },
     {
         "id": 504,
-        "text": "Bajo la reforma judicial de 2024, ¿cómo serán elegidas las personas magistradas electorales de la Sala Superior del Tribunal Electoral? A) Por propuesta del Presidente y voto del Senado. B) Por elección ciudadana a nivel nacional conforme al procedimiento del artículo 96. C) Por insaculación entre los jueces de distrito. D) Por designación directa de la Suprema Corte de Justicia.",
+        "text": "Bajo la reforma judicial de 2024, ¿cómo serán elegidas las personas magistradas electorales de la Sala Superior del Tribunal Electoral?",
         "options": [
             { "text": "Por propuesta del Presidente y voto del Senado.", "correct": false },
             { "text": "Por elección ciudadana a nivel nacional conforme al procedimiento del artículo 96.", "correct": true },
@@ -6048,7 +6048,7 @@
     },
     {
         "id": 505,
-        "text": "Un grupo de ciudadanos quiere solicitar una Consulta Popular sobre un tema de trascendencia nacional. ¿Qué porcentaje mínimo de la lista nominal de electores requieren? A) El 0.13%. B) Al menos el 2%. C) El 3%. D) El 10%.",
+        "text": "Un grupo de ciudadanos quiere solicitar una Consulta Popular sobre un tema de trascendencia nacional. ¿Qué porcentaje mínimo de la lista nominal de electores requieren?",
         "options": [
             { "text": "El 0.13%.", "correct": false },
             { "text": "Al menos el 2%.", "correct": true },
@@ -6060,7 +6060,7 @@
     },
     {
         "id": 506,
-        "text": "¿Cuál de los siguientes temas NO puede ser objeto de una Consulta Popular? A) La construcción de una nueva carretera. B) La permanencia o continuidad en el cargo de los servidores públicos de elección popular. C) El cambio de nombre de una entidad federativa. D) La creación de una nueva Secretaría de Estado.",
+        "text": "¿Cuál de los siguientes temas NO puede ser objeto de una Consulta Popular?",
         "options": [
             { "text": "La construcción de una nueva carretera.", "correct": false },
             { "text": "La permanencia o continuidad en el cargo de los servidores públicos de elección popular.", "correct": true },
@@ -6072,7 +6072,7 @@
     },
     {
         "id": 507,
-        "text": "Para que el resultado de una Consulta Popular sea vinculatorio para los poderes Ejecutivo y Legislativo, ¿qué participación mínima se requiere? A) El 25% de la lista nominal. B) El 33% de los ciudadanos inscritos. C) Al menos el 40% de los ciudadanos inscritos en la lista nominal de electores. D) La mayoría simple de los que acudan a votar.",
+        "text": "Para que el resultado de una Consulta Popular sea vinculatorio para los poderes Ejecutivo y Legislativo, ¿qué participación mínima se requiere?",
         "options": [
             { "text": "El 25% de la lista nominal.", "correct": false },
             { "text": "El 33% de los ciudadanos inscritos.", "correct": false },
@@ -6084,7 +6084,7 @@
     },
     {
         "id": 508,
-        "text": "¿Qué autoridad tiene a su cargo la organización, difusión, desarrollo, cómputo y declaración de resultados de las consultas populares? A) El Congreso de la Unión. B) El Instituto Nacional Electoral (INE). C) La Suprema Corte de Justicia de la Nación. D) El Tribunal Electoral del Poder Judicial de la Federación.",
+        "text": "¿Qué autoridad tiene a su cargo la organización, difusión, desarrollo, cómputo y declaración de resultados de las consultas populares?",
         "options": [
             { "text": "El Congreso de la Unión.", "correct": false },
             { "text": "El Instituto Nacional Electoral (INE).", "correct": true },
@@ -6096,7 +6096,7 @@
     },
     {
         "id": 509,
-        "text": "¿En qué fecha se realizan ordinariamente las consultas populares convocadas por el Congreso? A) El día de la elección federal. B) El primer domingo de agosto. C) El primero de mayo de cada año. D) El 20 de noviembre.",
+        "text": "¿En qué fecha se realizan ordinariamente las consultas populares convocadas por el Congreso?",
         "options": [
             { "text": "El día de la elección federal.", "correct": false },
             { "text": "El primer domingo de agosto.", "correct": true },
@@ -6108,7 +6108,7 @@
     },
     {
         "id": 510,
-        "text": "Para solicitar la Revocación de Mandato del Presidente de la República, los ciudadanos deben reunir firmas equivalentes a: A) El 1% de la lista nominal. B) Al menos el 3% de los inscritos en la lista nominal de electores, en al menos 17 entidades federativas. C) El 10% de la lista nominal nacional. D) El 33% de los integrantes de la Cámara de Diputados.",
+        "text": "Para solicitar la Revocación de Mandato del Presidente de la República, los ciudadanos deben reunir firmas equivalentes a:",
         "options": [
             { "text": "El 1% de la lista nominal.", "correct": false },
             { "text": "Al menos el 3% de los inscritos en la lista nominal de electores, en al menos 17 entidades federativas.", "correct": true },
@@ -6120,7 +6120,7 @@
     },
     {
         "id": 511,
-        "text": "Durante un proceso de Revocación de Mandato, ¿qué tipo de propaganda debe suspenderse en los medios de comunicación? A) Solo la propaganda de los partidos políticos. B) Toda propaganda gubernamental, salvo salud, educación y protección civil. C) Solo la publicidad comercial. D) Ninguna, la libertad de expresión es absoluta.",
+        "text": "Durante un proceso de Revocación de Mandato, ¿qué tipo de propaganda debe suspenderse en los medios de comunicación?",
         "options": [
             { "text": "Solo la propaganda de los partidos políticos.", "correct": false },
             { "text": "Toda propaganda gubernamental, salvo salud, educación y protección civil.", "correct": true },
@@ -6132,7 +6132,7 @@
     },
     {
         "id": 512,
-        "text": "¿Qué mayoría se requiere para que proceda la Revocación de Mandato del titular del Ejecutivo Federal? A) Mayoría simple de los votantes. B) Dos terceras partes de los votos emitidos. C) Mayoría absoluta. D) Que vote a favor el 50% de la lista nominal total.",
+        "text": "¿Qué mayoría se requiere para que proceda la Revocación de Mandato del titular del Ejecutivo Federal?",
         "options": [
             { "text": "Mayoría simple de los votantes.", "correct": false },
             { "text": "Dos terceras partes de los votos emitidos.", "correct": false },
@@ -6144,7 +6144,7 @@
     },
     {
         "id": 513,
-        "text": "¿Quién resuelve las impugnaciones de los resultados de la revocación de mandato del Presidente? A) La Suprema Corte de Justicia de la Nación. B) La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación. C) El Consejo General del INE. D) La Cámara de Senadores.",
+        "text": "¿Quién resuelve las impugnaciones de los resultados de la revocación de mandato del Presidente?",
         "options": [
             { "text": "La Suprema Corte de Justicia de la Nación.", "correct": false },
             { "text": "La Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.", "correct": true },
@@ -6156,7 +6156,7 @@
     },
     {
         "id": 514,
-        "text": "Las consultas populares sobre temas de trascendencia regional competencia de la Federación pueden ser solicitadas por ciudadanos de una o más entidades en un número de: A) Al menos el 2% de los inscritos en la lista nominal de la(s) entidad(es) correspondiente(s). B) El 0.13% de la lista nominal estatal. C) Solo por el Gobernador de la entidad. D) El 5% de los ciudadanos de la región.",
+        "text": "Las consultas populares sobre temas de trascendencia regional competencia de la Federación pueden ser solicitadas por ciudadanos de una o más entidades en un número de:",
         "options": [
             { "text": "Al menos el 2% de los inscritos en la lista nominal de la(s) entidad(es) correspondiente(s).", "correct": true },
             { "text": "El 0.13% de la lista nominal estatal.", "correct": false },
@@ -6168,7 +6168,7 @@
     },
     {
         "id": 515,
-        "text": "Según el artículo 40, ¿cuál es la forma de gobierno de México? A) Una Monarquía Parlamentaria. B) Una República representativa, democrática, laica y federal. C) Un Estado Unitario Centralizado. D) Una Federación de Estados Independientes sin pacto federal.",
+        "text": "Según el artículo 40, ¿cuál es la forma de gobierno de México?",
         "options": [
             { "text": "Una Monarquía Parlamentaria.", "correct": false },
             { "text": "Una República representativa, democrática, laica y federal.", "correct": true },
@@ -6180,7 +6180,7 @@
     },
     {
         "id": 516,
-        "text": "¿En quién reside esencial y originariamente la soberanía nacional? A) En el Presidente de la República. B) En la Constitución. C) En el pueblo. D) En los Poderes de la Unión.",
+        "text": "¿En quién reside esencial y originariamente la soberanía nacional?",
         "options": [
             { "text": "En el Presidente de la República.", "correct": false },
             { "text": "En la Constitución.", "correct": false },
@@ -6192,7 +6192,7 @@
     },
     {
         "id": 517,
-        "text": "Los nombramientos de titulares de la administración pública federal deben observar obligatoriamente el principio de: A) Antigüedad. B) Paridad de género. C) Lealtad partidista. D) Meritocracia académica exclusiva.",
+        "text": "Los nombramientos de titulares de la administración pública federal deben observar obligatoriamente el principio de:",
         "options": [
             { "text": "Antigüedad.", "correct": false },
             { "text": "Paridad de género.", "correct": true },
@@ -6204,7 +6204,7 @@
     },
     {
         "id": 518,
-        "text": "El municipio libre es la base de la división territorial y organización política de los Estados. ¿Quién gobierna cada municipio? A) Un Jefe de Manzana. B) Un Ayuntamiento de elección popular directa. C) Un Delegado nombrado por el Gobernador. D) El síndico únicamente.",
+        "text": "El municipio libre es la base de la división territorial y organización política de los Estados. ¿Quién gobierna cada municipio?",
         "options": [
             { "text": "Un Jefe de Manzana.", "correct": false },
             { "text": "Un Ayuntamiento de elección popular directa.", "correct": true },
@@ -6216,7 +6216,7 @@
     },
     {
         "id": 519,
-        "text": "¿Cuál de los siguientes es un servicio público a cargo de los Municipios según el artículo 115? A) Expedición de pasaportes. B) Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales. C) Defensa nacional. D) Educación superior tecnológica.",
+        "text": "¿Cuál de los siguientes es un servicio público a cargo de los Municipios según el artículo 115?",
         "options": [
             { "text": "Expedición de pasaportes.", "correct": false },
             { "text": "Agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.", "correct": true },
@@ -6228,7 +6228,7 @@
     },
     {
         "id": 520,
-        "text": "La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a: A) Su régimen interior y su organización política y administrativa. B) Relaciones exteriores. C) Emisión de moneda propia. D) Declaración de guerra.",
+        "text": "La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a: ",
         "options": [
             { "text": "Su régimen interior y su organización política y administrativa.", "correct": true },
             { "text": "Relaciones exteriores.", "correct": false },
@@ -6240,7 +6240,7 @@
     },
     {
         "id": 521,
-        "text": "¿Cómo se denomina a la persona titular del Poder Ejecutivo en la Ciudad de México? A) Gobernador del Distrito Federal. B) Intendente de la Ciudad. C) Jefa o Jefe de Gobierno de la Ciudad de México. D) Regente de la Ciudad.",
+        "text": "¿Cómo se denomina a la persona titular del Poder Ejecutivo en la Ciudad de México?",
         "options": [
             { "text": "Gobernador del Distrito Federal.", "correct": false },
             { "text": "Intendente de la Ciudad.", "correct": false },
@@ -6252,7 +6252,7 @@
     },
     {
         "id": 522,
-        "text": "En materia de transparencia, ¿qué principio debe prevalecer en la interpretación del derecho de acceso a la información pública? A) Principio de reserva absoluta. B) Principio de máxima publicidad. C) Principio de discrecionalidad administrativa. D) Principio de propiedad intelectual del Estado.",
+        "text": "En materia de transparencia, ¿qué principio debe prevalecer en la interpretación del derecho de acceso a la información pública?",
         "options": [
             { "text": "Principio de reserva absoluta.", "correct": false },
             { "text": "Principio de máxima publicidad.", "correct": true },
@@ -6264,7 +6264,7 @@
     },
     {
         "id": 523,
-        "text": "Todo funcionario público, sin excepción, antes de tomar posesión de su encargo, debe prestar la protesta de: A) Guardar la Constitución y las leyes que de ella emanen. B) Ser fiel a su partido político. C) Trabajar sin descanso por el pueblo. D) Cumplir con sus metas de presupuesto.",
+        "text": "Todo funcionario público, sin excepción, antes de tomar posesión de su encargo, debe prestar la protesta de:",
         "options": [
             { "text": "Guardar la Constitución y las leyes que de ella emanen.", "correct": true },
             { "text": "Ser fiel a su partido político.", "correct": false },
@@ -6276,7 +6276,7 @@
     },
     {
         "id": 524,
-        "text": "Un extranjero desea participar en una manifestación pública para exigir cambios en la ley electoral mexicana. ¿Qué establece la Constitución sobre su participación en política? A) Puede participar si tiene residencia de 5 años. B) Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país. C) Puede participar si el INE le otorga un permiso temporal. D) Tiene los mismos derechos políticos que los ciudadanos mexicanos.",
+        "text": "Un extranjero desea participar en una manifestación pública para exigir cambios en la ley electoral mexicana. ¿Qué establece la Constitución sobre su participación en política?",
         "options": [
             { "text": "Puede participar si tiene residencia de 5 años.", "correct": false },
             { "text": "Los extranjeros no podrán de ninguna manera inmiscuirse en los asuntos políticos del país.", "correct": true },
