@@ -10797,7 +10797,7 @@
             }
         ],
         "sustento": "La intersección comprende únicamente los elementos comunes a ambos conjuntos. En este caso, el 3 y el 5 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 541,
@@ -10817,7 +10817,7 @@
             }
         ],
         "sustento": "Fórmula: Total - (A + B - Ambos) = 50 - (30 + 25 - 10) = 50 - 45 = 5 [5].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 542,
@@ -10837,7 +10837,7 @@
             }
         ],
         "sustento": "Paso 1: Paréntesis (20). Paso 2: División y multiplicación: 20/4=5 y 3*2=6. Paso 3: Suma: 5+6=11 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 543,
@@ -10857,7 +10857,7 @@
             }
         ],
         "sustento": "División aritmética simple: 1,800 / 75 = 24 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 544,
@@ -10877,7 +10877,7 @@
             }
         ],
         "sustento": "Cálculo de porcentaje: 3,000 * 0.15 = 450 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 545,
@@ -10897,7 +10897,7 @@
             }
         ],
         "sustento": "Despeje: 3x - 2x = 8 + 12 -> x = 20 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 546,
@@ -10917,7 +10917,7 @@
             }
         ],
         "sustento": "Casos totales = 10. Casos favorables (blancas + verdes) = 5. Probabilidad = 5/10 = 1/2 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 547,
@@ -10937,7 +10937,7 @@
             }
         ],
         "sustento": "Ordenados: 10, 15, 20, 25, 30. El valor central es 20 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 548,
@@ -10957,7 +10957,7 @@
             }
         ],
         "sustento": "(450 / 600) * 100 = 0.75 * 100 = 75% [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 549,
@@ -10977,7 +10977,7 @@
             }
         ],
         "sustento": "Los divisores de 24 son {1,2,3,4,6,8,12,24} y de 36 son {1,2,3,4,6,9,12,18,36}. El mayor común es 12 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 550,
@@ -11197,7 +11197,7 @@
             }
         ],
         "sustento": "El complemento contiene los elementos del universo que no están en A [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 561,
@@ -11217,7 +11217,7 @@
             }
         ],
         "sustento": "5 * (5)² - 100 = 5 * 25 - 100 = 125 - 100 = 25 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 562,
@@ -11237,7 +11237,7 @@
             }
         ],
         "sustento": "Visitó 90 (120 * 0.75). Faltan 120 - 90 = 30 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 563,
@@ -11257,7 +11257,7 @@
             }
         ],
         "sustento": "Fórmula: (n-2) * 180 = (6-2) * 180 = 4 * 180 = 720° [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 564,
@@ -11277,7 +11277,7 @@
             }
         ],
         "sustento": "Regla de tres: (250 * 12) / 100 = 3,000 / 100 = 30 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 565,
@@ -11297,7 +11297,7 @@
             }
         ],
         "sustento": "(28 + 32 + 40 + 44) / 4 = 144 / 4 = 36 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 566,
@@ -11317,7 +11317,7 @@
             }
         ],
         "sustento": "Patrón geométrico: multiplicar por 3. 54 * 3 = 162 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 567,
@@ -11337,7 +11337,7 @@
             }
         ],
         "sustento": "4a + 2b - 2a + 3b = 2a + 5b [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 568,
@@ -11357,7 +11357,7 @@
             }
         ],
         "sustento": "Casos favorables: {2, 4, 6} = 3. Casos totales = 6 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 569,
@@ -11377,7 +11377,7 @@
             }
         ],
         "sustento": "La raíz cuadrada de 144 es 12 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 570,
@@ -11597,7 +11597,7 @@
             }
         ],
         "sustento": "La moda es el valor con mayor frecuencia [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 581,
@@ -11617,7 +11617,7 @@
             }
         ],
         "sustento": "350,000 / 5 = 70,000 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 582,
@@ -11637,7 +11637,7 @@
             }
         ],
         "sustento": "V = l * w * h = 50 * 40 * 30 = 60,000 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 583,
@@ -11657,7 +11657,7 @@
             }
         ],
         "sustento": "Área = base * altura = 20 * 15 = 300 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 584,
@@ -11677,7 +11677,7 @@
             }
         ],
         "sustento": "(8+9+10)/3 = 27/3 = 9 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 585,
@@ -11697,7 +11697,7 @@
             }
         ],
         "sustento": "Traducción lenguaje común a algebraico [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 586,
@@ -11717,7 +11717,7 @@
             }
         ],
         "sustento": "Definición de subconjunto [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 587,
@@ -11737,7 +11737,7 @@
             }
         ],
         "sustento": "5/100 = 0.05 = 5% [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 588,
@@ -11757,7 +11757,7 @@
             }
         ],
         "sustento": "2x = 10 -> x = 5 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 589,
@@ -11777,7 +11777,7 @@
             }
         ],
         "sustento": "El mayor número que divide a ambos es 5 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 590,
@@ -11997,7 +11997,7 @@
             }
         ],
         "sustento": "Elementos: {2, 3, 5, 7}. Total = 4 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 601,
@@ -12017,7 +12017,7 @@
             }
         ],
         "sustento": "100 - (0.20 * 100) = 80 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 602,
@@ -12037,7 +12037,7 @@
             }
         ],
         "sustento": "10 + 2 * 2 = 10 + 4 = 14 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 603,
@@ -12057,7 +12057,7 @@
             }
         ],
         "sustento": "2 * 50,000 = 100,000 cm = 1,000 m = 1 km [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 604,
@@ -12077,7 +12077,7 @@
             }
         ],
         "sustento": "(45/3) * 7 = 15 * 7 = 105 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 605,
@@ -12097,7 +12097,7 @@
             }
         ],
         "sustento": "Definición estadística de moda [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 606,
@@ -12117,7 +12117,7 @@
             }
         ],
         "sustento": "Producto de binomios conjugados (diferencia de cuadrados) [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 607,
@@ -12137,7 +12137,7 @@
             }
         ],
         "sustento": "Espacio muestral: {AA, AS, SA, SS}. Casos favorables = 1 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 608,
@@ -12157,7 +12157,7 @@
             }
         ],
         "sustento": "50% de 200 = 100. 10% de 100 = 10 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 609,
@@ -12177,7 +12177,7 @@
             }
         ],
         "sustento": "Múltiplos de 4: {4,8,12,16,20}. Múltiplos de 10: {10,20} [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 610,
@@ -12397,7 +12397,7 @@
             }
         ],
         "sustento": "El vacío es el elemento neutro de la unión [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 621,
@@ -12417,7 +12417,7 @@
             }
         ],
         "sustento": "16 - 6 = 10 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 622,
@@ -12437,7 +12437,7 @@
             }
         ],
         "sustento": "2.5 * 10 = 25 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 623,
@@ -12457,7 +12457,7 @@
             }
         ],
         "sustento": "Definición por medida de ángulo [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 624,
@@ -12477,7 +12477,7 @@
             }
         ],
         "sustento": "(3 * 2) / (4 * 1) = 6/4 = 3/2 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 625,
@@ -12497,7 +12497,7 @@
             }
         ],
         "sustento": "0.25 * 360° = 90° [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 626,
@@ -12517,7 +12517,7 @@
             }
         ],
         "sustento": "100 / 5 = 20 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 627,
@@ -12537,7 +12537,7 @@
             }
         ],
         "sustento": "Hay 4 ases en 52 cartas [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 628,
@@ -12557,7 +12557,7 @@
             }
         ],
         "sustento": "500 + 50 = 550 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 629,
@@ -12577,7 +12577,7 @@
             }
         ],
         "sustento": "3 * 5 - 2 = 15 - 2 = 13 [3].",
-        "categoria": "Competencia Matemática"
+        "categoria": "Matemáticas"
     },
     {
         "id": 630,
