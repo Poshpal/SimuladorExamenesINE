@@ -3132,7 +3132,7 @@
                 "correct": false
             },
             {
-                "text": "Obligar a los ciudadanos a tramitar su voto en el extranjero.",
+                "text": "Obligar a los ciudadanos a tramitar su voto en una casilla especial.",
                 "correct": false
             }
         ],
@@ -3196,7 +3196,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 161. Determina el número de representantes en casillas únicas.",
+        "sustento": "Reglamento de Elecciones, Artículo 255. Determina el número de representantes en casillas únicas.",
         "categoria": "Sistema Electoral"
     },
     {
