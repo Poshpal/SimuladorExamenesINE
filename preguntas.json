@@ -3044,7 +3044,7 @@
         "text": "Las bodegas electorales deben determinarse en el mes de febrero. ¿Quién es el responsable directo de todas las operaciones de apertura y cierre de la bodega distrital?",
         "options": [
             {
-                "text": "El Vocal de Capacitación.",
+                "text": "El Vocal de Capacitación Electoral y Educación Cívica.",
                 "correct": false
             },
             {
@@ -3052,7 +3052,7 @@
                 "correct": true
             },
             {
-                "text": "El representante del partido con más antigüedad.",
+                "text": "La Vocalía de Organización Electoral de la Junta Distrital Ejecutiva.",
                 "correct": false
             }
         ],
@@ -4496,7 +4496,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 154. La presidencia del consejo distrital mantiene las llaves de la bodega electoral hasta la destrucción de paquetes.",
+        "sustento": "Reglamento de Elecciones, Artículo 168. La presidencia del consejo distrital mantiene las llaves de la bodega electoral hasta la destrucción de paquetes.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -4596,7 +4596,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 154 y 229. Los consejos distritales gestionan el resguardo de seguridad en bodegas electorales.",
+        "sustento": "Reglamento de Elecciones, Artículo 168 y 229. Los consejos distritales gestionan el resguardo de seguridad en bodegas electorales.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -4604,7 +4604,7 @@
         "text": "¿Qué instancia es la responsable de llevar una bitácora sobre la apertura de las bodegas, en la que se asienta la información relativa a la fecha, hora y motivo de la apertura?",
         "options": [
             {
-                "text": "La Dirección Ejecutiva de Organización Electoral y la Secretaría Ejecutiva en el OPL.",
+                "text": "La Vocalía de Organización Electoral de la Junta Distrital Ejecutiva.",
                 "correct": false
             },
             {
@@ -4616,7 +4616,7 @@
                 "correct": true
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 154. La presidencia del consejo distrital lleva la bitácora de aperturas de bodega electoral.",
+        "sustento": "Reglamento de Elecciones, Artículo 168. La presidencia del consejo distrital lleva la bitácora de aperturas de bodega electoral.",
         "categoria": "Sistema Electoral"
     },
     {
@@ -13316,7 +13316,7 @@
                 "correct": false
             }
         ],
-        "sustento": "Reglamento de Elecciones, Artículo 154. La presidencia del consejo distrital es responsable de la bitácora de bodega [35].",
+        "sustento": "Reglamento de Elecciones, Artículo 168. La presidencia del consejo distrital es responsable de la bitácora de bodega [35].",
         "categoria": "Sistema Electoral"
     },
     {
