@@ -4285,7 +4285,7 @@
         "options": [
             {
                 "text": "Siete casillas, con la siguiente distribución: B con 750, C1 con 750, C2 con 749, C3 con 749, C4 con 749, C5 con 749 y C6 con 749 ciudadanos/as",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "Siete casillas, con la siguiente distribución: B con 749, C1 con 749, C2 con 749, C3 con 749, C4 con 749, C5 con 750, C6 con 750",
@@ -4293,10 +4293,10 @@
             },
             {
                 "text": "Siete casillas, con la siguiente distribución: B con 750, C1 con 749, C2 con 749, C3 con 749, C4 con 749, C5 con 749, C6 con 750",
-                "correct": true
+                "correct": false
             }
         ],
-        "sustento": "LGIPE, Artículo 253. En toda sección electoral por cada 750 electores o fracción se instalará una casilla; de ser dos o más se colocarán en forma contigua y se dividirá la lista nominal de electores en orden alfabético. Para 5,245 electores se instalan 7 casillas (1 básica con 750 y 6 contiguas con el remanente de 4,495 distribuido de forma equilibrada: 5 con 749 y 1 con 750).",
+        "sustento": "LGIPE, Artículo 253. En toda sección electoral por cada 750 electores o fracción se instalará una casilla; de ser dos o más se colocarán en forma contigua y se dividirá la lista nominal de electores en orden alfabético. Para 5,245 electores se instalan 7 casillas (1 básica y 1 contigua con 750 y el remanente distribuido de forma equilibrada: 5 con 749).",
         "categoria": "Sistema Electoral"
     },
     {
