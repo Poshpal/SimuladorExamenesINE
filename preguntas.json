@@ -3464,12 +3464,12 @@
         "text": "Para las elecciones de Presidencia, ¿cuántos debates son obligatorios organizar por el INE?",
         "options": [
             {
-                "text": "Al menos uno en cada estado.",
+                "text": "Dos obligatorios entre todos los candidatos.",
                 "correct": false
             },
             {
                 "text": "El número que determine el Consejo General en las reglas básicas.",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "Solo uno antes del cierre de campaña.",
